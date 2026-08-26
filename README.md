@@ -1,6 +1,12 @@
 # Solving an Operational Problem For a Fictional Wind Using SQL and Python
 <br>
 
+[Project PDF](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Project_Doc.pdf)
+[Python Script](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/Python_for_SQL_Project.ipynb)
+[SQL Script](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Database.sql)
+
+<br>
+
 **Problem**
 
 Southwest Water, a renewable energy management company, owns and operates wind turbines across Devon. Due to recent unpredictable weather conditions and reactive plant operations, the Den Brook Wind Farm has been operating at a financial loss. In this project, I will create a data-driven solution to bring the plant back to profitability.
