@@ -1,8 +1,8 @@
 # Solving an Operational Problem For a Fictional Wind Farm Using SQL and Python
 <br>
 
-[Project PDF](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Project_Doc.pdf)
-[Python Script](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/Python_for_SQL_Project.ipynb)
+[Project PDF](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Project_Doc.pdf) | 
+[Python Script](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/Python_for_SQL_Project.ipynb) | 
 [SQL Script](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Database.sql)
 
 <br>
