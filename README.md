@@ -94,6 +94,7 @@ Normalisation Proof
 <br>
 
 **Analysis**
+
 Historical Analysis Key Findings
 
 * Optimal Operations: Peak recorded wind speed of 30 mph produced 600 W when the turbine was aligned with the wind direction (0°) and in optimal condition. Minimum wind speed of 5 mph generated 100 W.
