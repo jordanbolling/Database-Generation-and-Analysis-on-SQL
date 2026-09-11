@@ -112,3 +112,5 @@ Short-Term Recommendations
 Long-Term Recommendations
 * Strategic Staffing: Recruit replacement operators to cover extended leave (ex:Laura Miller's maternity leave) to ensure adequate coverage during shifts with rapid weather shifts.
 * Targeted Innovation: Invest in real-time automated yaw-control systems and predictive health monitoring sensors. Automating direction adjustments directly eliminates manual operator errors during volatile shifts and reduces ongoing labor overhead.
+* Dynamic Power Threshold Alert: Configure the monitoring software to flag any shift where actual output falls >15% below the 302.6 W baseline during standard 15 mph wind conditions. This gives on-duty staff a real-time signal to adjust manual blade angles immediately rather than discovering lost yield at the end of a shift.
+* Capacity Planning & Contract Guarantees: Use the 302.6 W baseline average to establish realistic minimum power-purchase agreement (PPA) supply commitments with local Devon energy distributors. Anchoring supply contracts to this statistically derived baseline prevents over-promising energy generation and avoids financial penalties during lower-wind months.
