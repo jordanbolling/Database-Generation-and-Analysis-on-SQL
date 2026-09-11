@@ -90,7 +90,7 @@ Normalisation Proof
 
 **ERD**
 
-<img src="https://i.ibb.co/FLtptzR1/ERD.jpg"/>
+<img src="https://i.ibb.co/8LHqycBm/ERD.jpg"/>
 <br>
 
 **Analysis**
@@ -103,9 +103,11 @@ Historical Analysis Key Findings
 * Root Cause of Operational Losses: Misalignments coincided directly with staff shortages recorded in the Absences table. Laura Miller's extended absence (maternity leave) combined with short-term sick leave during volatile weather days (changes > 10 mph or > 60° direction shift) left remaining operators unable to handle manual recalibrations.
 <br>
 
+Short-Term Recommendations
+
+<img src="https://i.ibb.co/YTBYQcQQ/Screenshot-2026-08-26-at-13-35-31.png"/>
+<br>
+
 Long-Term Recommendations
 * Strategic Staffing: Recruit replacement operators to cover extended leave (ex:Laura Miller's maternity leave) to ensure adequate coverage during shifts with rapid weather shifts.
 * Targeted Innovation: Invest in real-time automated yaw-control systems and predictive health monitoring sensors. Automating direction adjustments directly eliminates manual operator errors during volatile shifts and reduces ongoing labor overhead.
-<br>
-Short-Term Recommendations
-<img src="https://i.ibb.co/vntkLns/Screenshot-2026-08-26-at-13-35-31.png"/>
