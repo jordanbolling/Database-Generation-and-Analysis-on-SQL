@@ -1,4 +1,4 @@
-# Solving an Operational Problem For a Fictional Wind Using SQL and Python
+# Solving an Operational Problem For a Fictional Wind Farm Using SQL and Python
 <br>
 
 [Project PDF](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL/blob/main/SQL_Project_Doc.pdf)
